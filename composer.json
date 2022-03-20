@@ -1,5 +1,5 @@
 {
-    "name": "prismic/php-sdk",
+    "name": "thedrum-developers/php-sdk",
     "description": "PHP development kit for Prismic",
     "config": {
         "sort-packages": true
@@ -21,7 +21,7 @@
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "guzzlehttp/guzzle": "^6.3"
+        "guzzlehttp/guzzle": "^6.3|^7"
     },
     "require-dev": {
         "phpdocumentor/phpdocumentor": "dev-master",
